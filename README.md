@@ -1,2 +1,2 @@
 # Database
-This repository includes database exercises and modeling. It aims to deepen database knowledge through practical exercises and schema design, covering core concepts, data modeling, and optimization techniques to enhance and refine database management skills.
+This repository is where I store my database exercises and modeling projects. They help me deepen my understanding of databases and apply what I learn in practice, complementing my studies.
