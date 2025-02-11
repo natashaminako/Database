@@ -37,4 +37,4 @@ This repository is dedicated to storing exercises and projects related to databa
 
 ## Contact
 
-For any questions or issues, please reach out via [contatonatashaminako@outlook.com](mailto:contatonatashaminako@outlook.com).
+For any questions or issues, please reach out via [natashaminakotrabalhos@outlook.com](mailto:contatonatashaminako@outlook.com).
